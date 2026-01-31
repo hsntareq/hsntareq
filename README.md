@@ -55,7 +55,7 @@ I’ve worked on both **client projects and product-based systems**, led teams, 
 
 ## Selected Work & Experience
 
-- **[[GoldsGym.com](GoldsGym.com)]**
+- **[GoldsGym.com](https://goldsgym.com)**
   Custom Gutenberg blocks, API integrations, multisite-aware features
 
 - **LaundryCare.bi**
