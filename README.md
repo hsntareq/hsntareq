@@ -92,8 +92,8 @@ Git · REST APIs · Webpack · Vite · Gulp
 
 > (Stats will auto-update once your GitHub username is confirmed)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=darcula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=darcula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsntareq&show_icons=true&theme=darcula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsntareq&layout=compact&theme=darcula&hide_border=true)
 
 ---
 
