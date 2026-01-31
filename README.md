@@ -55,13 +55,13 @@ I’ve worked on both **client projects and product-based systems**, led teams, 
 
 ## Selected Work & Experience
 
-- **[GoldsGym.com](https://goldsgym.com/)**
+- **[GoldsGym](https://goldsgym.com/)**
   Custom Gutenberg blocks, API integrations, multisite-aware features
 
 - **[LaundryCare](https://www.laundrycare.biz/)**
   Map & payment system integration
 
-- **<a href="https://www.periscope365.com/" target="_blank">Periscope365.com</a>**
+- **[Periscope365](https://www.periscope365.com)**
   Custom internal medical review system
 
 - Built multiple **Laravel applications** for production use
