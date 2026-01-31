@@ -68,7 +68,7 @@ I’ve worked on both **client projects and product-based systems**, led teams, 
   Custom internal medical review system
 
 - Built multiple **Laravel applications** for production use
-- Led development teams after 2.5+ years at my first company
+- Led development teams after 2.5+ years at a startup company
 - Extensive experience in **product-oriented WordPress development**
 
 > Many projects are under NDA.
@@ -81,13 +81,13 @@ I’ve worked on both **client projects and product-based systems**, led teams, 
 PHP · JavaScript · SQL · HTML · CSS
 
 ### 💻 Frameworks & Libraries
-WordPress · Laravel · React · Node.js · Express
+WordPress · Laravel · React · Node.js · Express · React Native
 
 ### 🗄 Databases
 MySQL · MariaDB
 
 ### ⚙️ Tooling
-Git · REST APIs · Webpack · Vite · Gulp
+Git · REST APIs · Webpack · Vite · Gulp · PNPM
 
 ---
 
@@ -113,7 +113,9 @@ Git · REST APIs · Webpack · Vite · Gulp
 
 - 📍 Dhaka, Bangladesh
 - 💼 Full-Stack Web Engineer
-- 🌱 Aspiring product founder & tech entrepreneur
+- 🌱 Aspiring product ownership & tech enthusiast
+- 📧 hsntareq@gmail.com
+- 📞 +8801626287272
 
 ---
 
