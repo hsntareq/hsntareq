@@ -71,6 +71,14 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 </div>
 
+### 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hsntareq&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7&line=7aa2f7&point=c0caf5)](https://github.com/hsntareq)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
