@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hasan Tareq 👋
 
-### Full-Stack Web Engineer • WordPress • Laravel • NestJS • React • React Native • Node.js • PostgreSQL • MongoDB • Firebase
+### Full-Stack Web Engineer • WordPress • Laravel • NestJS • Next.js • React • React Native • Node.js • PostgreSQL • MongoDB • Firebase
 
 Dhaka, Bangladesh 🇧🇩
 
@@ -31,7 +31,7 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `PHP (OOP/SOLID)` • `JavaScript (ES6+)` • `SQL` • `HTML5/CSS3` |
-| **Frameworks & Libraries** | `Laravel` • `WordPress Core & Gutenberg` • `React` • `Node.js` • `Express` • `React Native` |
+| **Frameworks & Libraries** | `Laravel` • `NestJS` • `WordPress Core & Gutenberg` • `Next.js` • `React` • `React Native` • `Node.js` • `Express` |
 | **Databases & Cache** | `MySQL` • `MariaDB` |
 | **Architecture & APIs** | `RESTful APIs` • `Headless Architecture` • `Third-party Integrations` • `Clean Architecture` |
 | **Tooling & Workflow** | `Git` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` |
