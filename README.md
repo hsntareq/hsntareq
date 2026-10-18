@@ -65,7 +65,7 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 ![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsntareq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsntareq&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hsntareq&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsntareq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -75,7 +75,7 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hsntareq&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7&line=7aa2f7&point=c0caf5)](https://github.com/hsntareq)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hsntareq&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=7aa2f7&area=true&hide_border=true)](https://github.com/hsntareq)
 
 </div>
 
@@ -85,7 +85,7 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hsntareq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hsntareq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
 
 </div>
 
