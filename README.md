@@ -30,11 +30,12 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `PHP (OOP/SOLID)` • `JavaScript (ES6+)` • `SQL` • `HTML5/CSS3` |
-| **Frameworks & Libraries** | `Laravel` • `NestJS` • `WordPress Core & Gutenberg` • `Next.js` • `React` • `React Native` • `Node.js` • `Express` |
-| **Databases & Cache** | `MySQL` • `MariaDB` |
-| **Architecture & APIs** | `RESTful APIs` • `Headless Architecture` • `Third-party Integrations` • `Clean Architecture` |
-| **Tooling & Workflow** | `Git` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` |
+| **Languages** | `PHP (OOP/SOLID)` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `HTML5/CSS3` |
+| **Backend Frameworks** | `Laravel` • `NestJS` • `Node.js` • `Express` • `WordPress Core & Gutenberg` |
+| **Frontend Frameworks** | `Next.js` • `React` • `React Native` |
+| **Databases** | `MySQL` • `MariaDB` • `PostgreSQL` • `MongoDB` |
+| **Cloud & Services** | `Firebase` • `REST APIs` • `Headless Architecture` • `Third-party Integrations` |
+| **Tooling & Workflow** | `Git` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` • `Docker` |
 
 ---
 
