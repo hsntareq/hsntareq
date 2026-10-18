@@ -1,122 +1,94 @@
-# Building scalable web platforms. Crafting quality software. Growing products.
+<div align="center">
 
-Full-Stack Web Engineer • WordPress Platform Specialist • Laravel & MERN Developer
+# Hi there, I'm Hasan Tareq 👋
+
+### Full-Stack Web Engineer • WordPress Platform Specialist • Laravel & React Developer
 
 Dhaka, Bangladesh 🇧🇩
 
----
-
-## About Me
-
-Hi, I’m **Hasan Tareq** — a **Full-Stack Web Application Developer** with over **8 years of professional experience** in building scalable, secure, and high-performance web solutions.
-
-I primarily work with **WordPress, Laravel, and modern JavaScript (React / MERN)**. My strength lies in **clean architecture, OOP-driven PHP development, API integrations, and product-focused engineering**. I care deeply about **code quality, maintainability, security, and performance**.
-
-I’ve worked on both **client projects and product-based systems**, led teams, and contributed to widely-used WordPress plugins. My long-term goal is to **build product-driven software and establish my own tech company**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsntareq/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsntareq@gmail.com)
 
 ---
 
-## What I Do Best
+</div>
 
-### 🧠 Architecture & Engineering Mindset
-- Clean, scalable system design
-- Strong focus on long-term maintainability
-- Practical engineering decisions over hype
+## 👨‍💻 About Me
 
-### ⚙️ Full-Stack Web Development
-- End-to-end application development
-- RESTful APIs and backend-driven systems
-- Performance-optimized frontend delivery
+I am a **Full-Stack Web Application Developer** with **8+ years of professional experience** engineering high-performance, secure, and scalable web solutions. 
 
-### 🧩 WordPress Platform Engineering
-- Custom plugins & themes
-- Advanced **Gutenberg block development**
-- Multisite, API-driven features & optimization
-- Contributor to **Tutor LMS & Tutor LMS Pro**
-- Experience with **WP Mega Menu**
+My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & WordPress core engineering), and modern JavaScript (React / MERN)**. Whether leading development teams or shipping product-driven platforms, I prioritize long-term maintainability, rigorous security, and practical engineering over hype.
 
-### 🚀 Laravel & PHP (OOP)
-- SOLID principles & clean OOP architecture
-- API-based applications and services
-- Real-world production systems
-- Custom workflows and publishing pipelines
-
-### ⚛️ Frontend & JavaScript
-- React-based interfaces
-- Modern JS tooling (Vite, Webpack, Gulp)
-- API-driven UI components
-
-### 🔌 API & Integrations
-- Payment, map, booking & review systems
-- Third-party API integrations
-- Custom Elementor & Gutenberg integrations
+- 🔭 **Current Focus**: Architecting scalable WordPress platforms, enterprise Laravel backends & modern React frontends.
+- 🚀 **Product Contributions**: Core contributor to **[Tutor LMS & Tutor LMS Pro](https://www.themeum.com/product/tutor-lms/)** and **WP Mega Menu**.
+- 🏆 **Credentials**: Certified ScrumMaster (**CSM®**), Certified Scrum Developer (**CSD®**), and Zend Certified Engineer (**ZCE**).
+- 💡 **Philosophy**: *"Good software is built with clarity, not complexity."*
 
 ---
 
-## Selected Work & Experience
+## 🛠 Tech Stack
 
-- **[GoldsGym](https://goldsgym.com/)**
-  Custom Gutenberg blocks, API integrations, multisite-aware features
-
-- **[LaundryCare](https://www.laundrycare.biz/)**
-  Map & payment system integration
-
-- **[PushLaundry](https://www.pushlaundry.com/)**
-  WordPress, elementor and api managed system integration
-
-- **[Periscope365](https://www.periscope365.com)**
-  Custom internal medical review system
-
-- Built multiple **Laravel applications** for production use
-- Led development teams after 2.5+ years at a startup company
-- Extensive experience in **product-oriented WordPress development**
-
-> Many projects are under NDA.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `PHP (OOP/SOLID)` • `JavaScript (ES6+)` • `SQL` • `HTML5/CSS3` |
+| **Frameworks & Libraries** | `Laravel` • `WordPress Core & Gutenberg` • `React` • `Node.js` • `Express` • `React Native` |
+| **Databases & Cache** | `MySQL` • `MariaDB` |
+| **Architecture & APIs** | `RESTful APIs` • `Headless Architecture` • `Third-party Integrations` • `Clean Architecture` |
+| **Tooling & Workflow** | `Git` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` |
 
 ---
 
-## Technology Stack
+## 💼 Selected Work & Impact
 
-### 🛠 Languages
-PHP · JavaScript · SQL · HTML · CSS
+- 🏋️ **[Gold's Gym](https://goldsgym.com/)** — Engineered custom Gutenberg blocks, complex REST API integrations, and multisite-aware architecture.
+- 🎓 **[Tutor LMS & Pro](https://www.themeum.com/product/tutor-lms/)** — Contributed core features, add-ons, and performance optimizations for one of WordPress's leading LMS ecosystems.
+- 🧺 **[LaundryCare](https://www.laundrycare.biz/)** & **[PushLaundry](https://www.pushlaundry.com/)** — Implemented mapping systems, routing logic, payment gateways, and custom workflow automation.
+- 🩺 **[Periscope365](https://www.periscope365.com)** — Built a custom internal medical review workflow platform.
 
-### 💻 Frameworks & Libraries
-WordPress · Laravel · React · Node.js · Express · React Native
-
-### 🗄 Databases
-MySQL · MariaDB
-
-### ⚙️ Tooling
-Git · REST APIs · Webpack · Vite · Gulp · PNPM
+> *Note: Additional enterprise and startup applications are protected under NDA.*
 
 ---
 
-## Education & Credentials
+## 🎓 Education & Certifications
 
-- **BSc in Computer Science & Engineering**
-  Bangladesh University of Business & Technology (BUBT)
-- Certifications: **ZCE, CSM®, CSD®**
-- Fluent in **English & Bengali**
-
----
-
-## Interests
-
-- Product-driven software development
-- Improving WordPress as a platform
-- Business, technology, and philosophy
-- Research, travel, and family time
+- 🎓 **B.Sc. in Computer Science & Engineering (CSE)** — *Bangladesh University of Business & Technology (BUBT)*
+- 📜 **ZCE** — Zend Certified Engineer (PHP)
+- 📜 **CSM®** — Certified ScrumMaster
+- 📜 **CSD®** — Certified Scrum Developer
+- 🌐 Fluent in **English & Bengali**
 
 ---
 
-## Connect
+## 📊 GitHub Performance
 
-- 📍 Dhaka, Bangladesh
-- 💼 Full-Stack Web Engineer
-- 🌱 Aspiring product ownership & tech enthusiast
-- 📧 hsntareq@gmail.com
-- 📞 +8801626287272
+<div align="center">
+
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsntareq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsntareq&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsntareq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
-> “Good software is built with clarity, not complexity.”
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hsntareq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Feel free to reach out if you'd like to collaborate on product engineering, platform architecture, or open-source initiatives.
+
+[**Email Me**](mailto:hsntareq@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/hsntareq/)
+
+</div>
