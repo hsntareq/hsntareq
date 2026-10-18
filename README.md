@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hasan Tareq 👋
 
-### Full-Stack Web Engineer • WordPress Platform Specialist • Laravel & React Developer
+### Full-Stack Web Engineer • WordPress • Laravel • NestJS • React • React Native • Node.js • PostgreSQL • MongoDB • Firebase
 
 Dhaka, Bangladesh 🇧🇩
 
