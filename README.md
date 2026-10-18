@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hasan Tareq 👋
 
-### Full-Stack Web Engineer • WordPress • Laravel • NestJS • Next.js • React • React Native • Node.js • PostgreSQL • MongoDB • Firebase
+### Full-Stack Engineer • SaaS Builder • WordPress • Laravel • NestJS • Next.js • React • React Native • Node.js • PostgreSQL • MongoDB • Firebase
 
 Dhaka, Bangladesh 🇧🇩
 
@@ -15,14 +15,33 @@ Dhaka, Bangladesh 🇧🇩
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Web Application Developer** with **8+ years of professional experience** engineering high-performance, secure, and scalable web solutions. 
+I am a **Full-Stack Web Engineer & SaaS Builder** with **8+ years of professional experience** engineering high-performance, secure, and scalable web applications — from enterprise platforms to independent SaaS products.
 
-My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & WordPress core engineering), and modern JavaScript (React / MERN)**. Whether leading development teams or shipping product-driven platforms, I prioritize long-term maintainability, rigorous security, and practical engineering over hype.
+My expertise spans **clean architecture, OOP-driven PHP (Laravel & WordPress), and modern full-stack JavaScript (Next.js, NestJS, React, React Native)**. I care deeply about long-term maintainability, security, and shipping software that creates real value.
 
-- 🔭 **Current Focus**: Architecting scalable WordPress platforms, enterprise Laravel backends & modern React frontends.
-- 🚀 **Product Contributions**: Core contributor to **[Tutor LMS & Tutor LMS Pro](https://www.themeum.com/product/tutor-lms/)** and **WP Mega Menu**.
-- 🏆 **Credentials**: Certified ScrumMaster (**CSM®**), Certified Scrum Developer (**CSD®**), and Zend Certified Engineer (**ZCE**).
+- 🔭 **Currently Building**: Multiple independent SaaS products across EdTech, B2B tooling, healthcare, e-commerce, on-demand services, CMS, and AI-powered platforms — all in stealth mode.
+- 🏗️ **Product Architecture**: Designing multi-tenant, scalable SaaS systems using **Next.js + NestJS**, **Laravel**, **PostgreSQL**, **MongoDB**, and **Firebase**.
+- 🚀 **Open Source Contributions**: Core contributor to **[Tutor LMS & Tutor LMS Pro](https://www.themeum.com/product/tutor-lms/)** and **WP Mega Menu**. Experienced in advanced **Gutenberg block**, **Divi module**, and **Elementor widget** development.
+- 🏆 **Credentials**: Zend Certified Engineer (**ZCE**), Certified ScrumMaster (**CSM®**), Certified Scrum Developer (**CSD®**).
 - 💡 **Philosophy**: *"Good software is built with clarity, not complexity."*
+
+---
+
+## 🚀 What I'm Building
+
+I am independently developing a suite of SaaS products across multiple verticals. These are currently in active development and stealth mode:
+
+| # | Domain | Description |
+| :---: | :--- | :--- |
+| 1 | 🎓 **EdTech / LMS** | A multi-tenant learning management SaaS with AI-assisted content tools |
+| 2 | 🛠️ **B2B Productivity** | A SaaS tooling platform for development teams and agency workflows |
+| 3 | 🏥 **Healthcare / MedTech** | A clinical workflow and medical review management platform |
+| 4 | 🛍️ **E-commerce / Marketplace** | A scalable multi-vendor marketplace platform |
+| 5 | 🧺 **On-demand Services** | A smart service booking & dispatch platform (laundry, home services) |
+| 6 | 📝 **CMS Platform** | A headless, API-first content management system |
+| 7 | 🤖 **AI-Powered Tools** | Developer and business productivity tools powered by LLMs |
+
+> *All products are in active development. Announcements coming soon.*
 
 ---
 
@@ -31,22 +50,23 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `PHP (OOP/SOLID)` • `JavaScript (ES6+)` • `TypeScript` • `SQL` • `HTML5/CSS3` |
-| **Backend Frameworks** | `Laravel` • `NestJS` • `Node.js` • `Express` • `WordPress Core & Gutenberg` |
-| **Frontend Frameworks** | `Next.js` • `React` • `React Native` |
+| **Backend** | `Laravel` • `NestJS` • `Node.js` • `Express` • `WordPress Core & Gutenberg` • `Divi Module Development` • `Elementor` |
+| **Frontend** | `Next.js` • `React` • `React Native` |
 | **Databases** | `MySQL` • `MariaDB` • `PostgreSQL` • `MongoDB` |
 | **Cloud & Services** | `Firebase` • `REST APIs` • `Headless Architecture` • `Third-party Integrations` |
-| **Tooling & Workflow** | `Git` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` • `Docker` |
+| **Tooling & DevOps** | `Git` • `Docker` • `Vite` • `Webpack` • `Gulp` • `Composer` • `PNPM/NPM` |
 
 ---
 
-## 💼 Selected Work & Impact
+## 💼 Selected Client Work & Impact
 
-- 🏋️ **[Gold's Gym](https://goldsgym.com/)** — Engineered custom Gutenberg blocks, complex REST API integrations, and multisite-aware architecture.
-- 🎓 **[Tutor LMS & Pro](https://www.themeum.com/product/tutor-lms/)** — Contributed core features, add-ons, and performance optimizations for one of WordPress's leading LMS ecosystems.
-- 🧺 **[LaundryCare](https://www.laundrycare.biz/)** & **[PushLaundry](https://www.pushlaundry.com/)** — Implemented mapping systems, routing logic, payment gateways, and custom workflow automation.
-- 🩺 **[Periscope365](https://www.periscope365.com)** — Built a custom internal medical review workflow platform.
+- 🏋️ **[Gold's Gym](https://goldsgym.com/)** — Custom Gutenberg blocks, REST API integrations, and multisite-aware architecture for one of the world's most iconic fitness brands.
+- 🎓 **[Tutor LMS & Pro](https://www.themeum.com/product/tutor-lms/)** — Core feature contributions, add-ons, and performance optimizations for a leading WordPress LMS ecosystem.
+- 🧺 **[LaundryCare](https://www.laundrycare.biz/)** & **[PushLaundry](https://www.pushlaundry.com/)** — Mapping systems, payment gateways, routing logic, and full on-demand service workflow automation.
+- 🩺 **[Periscope365](https://www.periscope365.com)** — Custom internal medical review and clinical workflow management platform.
+- 🏢 **Enterprise & Startup Projects** — Led development teams, built Laravel-based production systems, and delivered product-grade WordPress platforms.
 
-> *Note: Additional enterprise and startup applications are protected under NDA.*
+> *Additional enterprise and client projects are protected under NDA.*
 
 ---
 
@@ -96,7 +116,7 @@ My primary expertise centers on **clean architecture, OOP-driven PHP (Laravel & 
 
 ### 🤝 Let's Connect
 
-Feel free to reach out if you'd like to collaborate on product engineering, platform architecture, or open-source initiatives.
+Open to collaborating on product engineering, SaaS architecture, platform development, or open-source initiatives.
 
 [**Email Me**](mailto:hsntareq@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/hsntareq/)
 
